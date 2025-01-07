@@ -6,7 +6,7 @@ I mostly work in .NET, C++, JavaScript and Python.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszszvmczvk&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszszvmczvk&layout=compact&theme=radical&nocache=1)
 
 ---
 
