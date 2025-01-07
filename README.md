@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, my name is Łukasz 
 
-<!--
-**lukaszszvmczvk/lukaszszvmczvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Computer Science student and Software Engineer. I study at Warsaw University of Technology.
 
-Here are some ideas to get you started:
+I mostly work in .NET, C++, JavaScript and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Statystyki używanych języków
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszszvmczvk&layout=compact&theme=radical)
+
+---
+
+## 🔗 Contact
+- LinkedIn: [Mój profil]([https://www.linkedin.com/in/twoj-linkedin/](https://www.linkedin.com/in/%C5%82ukasz-szymczyk-50a89a25b/))  
